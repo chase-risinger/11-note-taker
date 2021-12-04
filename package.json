@@ -18,5 +18,13 @@
   },
   "devDependencies": {
     "jest": "^27.4.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chase-risinger/11-note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chase-risinger/11-note-taker/issues"
+  },
+  "homepage": "https://github.com/chase-risinger/11-note-taker#readme"
 }
